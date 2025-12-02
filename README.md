@@ -1,7 +1,7 @@
 # About me
 
 - 👩‍🎓 I'm a 4th year Engineering student in electronics and communication field📡🔌⚡
-- 🔧 My interest lies in core elctronics and embedded systems
+- 🔧 My interest lies in core electronics and embedded systems
 - 🌱 I’m currently learning programming in python🐍 to explore machine learning📊🤖
 - 🚴 Hobbies: Watching Anime🍥, surfing anywhere in the internet to explore👾🔍🌏
 - 😄 Pronouns: she/her♀
